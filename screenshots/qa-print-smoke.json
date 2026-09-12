@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/crew/print",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 366,
+      "bodyTextHash": "47bba8097766a9161403de7b4c337662cda48b5bbfb0e5970061390fea01f0f4",
+      "bodyTextPrefix": "Roster Crew list Generic list with date of birth. Print or downl",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-print-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 366,
+      "bodyTextHash": "47bba8097766a9161403de7b4c337662cda48b5bbfb0e5970061390fea01f0f4",
+      "bodyTextPrefix": "Roster Crew list Generic list with date of birth. Print or downl",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-print-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-print-smoke.json"
+}

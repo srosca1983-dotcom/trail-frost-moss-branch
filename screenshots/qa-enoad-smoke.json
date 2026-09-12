@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/crew/print?kind=enoad",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 4589,
+      "bodyTextHash": "a3c38e75005bb7271b7d34b92bc61415b1f69a79111fa4cfde0210a9f16810bc",
+      "bodyTextPrefix": "Roster eNOAD crew list Excel for the Master to paste into eNOAD.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-enoad-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 5685,
+      "bodyTextHash": "3bcc704c3ec5c50c1497e409ce619b31f8d251e9fb3c779042f3653d16221ffd",
+      "bodyTextPrefix": "Roster eNOAD crew list Excel for the Master to paste into eNOAD.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-enoad-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-enoad-smoke.json"
+}

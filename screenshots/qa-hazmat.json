@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/hazmat",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1417,
+      "bodyTextHash": "f3924eac479d714b48ac75706df1a6dd776ffdfe033e5a3645979a9b1be26de1",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Desk Roster Permanents NSE training Cy",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-hazmat.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1264,
+      "bodyTextHash": "8c868cd15b71e9b9fbc29a6c9aac43f8624747dadbb8ab87f43721e73871e3f4",
+      "bodyTextPrefix": "Crew Ledger HAZMAT Hand them the quiz. Grade it later. 4 seats r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-hazmat-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-hazmat.json"
+}

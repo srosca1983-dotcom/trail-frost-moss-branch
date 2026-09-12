@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/permanents",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 2270,
+      "bodyTextHash": "d2e19270e3c971f64b3b3c7bb2a0bc33869e71a42dc6fa27eaabcdba8d6dd60f",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Desk Roster Permanents NSE training Si",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-nse-permanents.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 2141,
+      "bodyTextHash": "4186eac09c75c0f310a2d2e0c945f60fcb8356848bfef14ee6a5149558932747",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Who owns the job, and who is sailing i",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-nse-permanents-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-nse-permanents.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/crew",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 4002,
+      "bodyTextHash": "6d88a0e2642af77e6c5da0ab691ee7067f86380d1195d53edd35e10b44b20d2b",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Desk Roster Permanents NSE training Si",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-aboard-rate.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 5044,
+      "bodyTextHash": "a24b7cc763f378df2f62cda89b086de726c7875d804626c6dfab163ebccffcb9",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Who is aboard, and when they are due o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-aboard-rate-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-aboard-rate.json"
+}

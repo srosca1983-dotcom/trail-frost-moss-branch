@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/training",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 810,
+      "bodyTextHash": "0f430214ca3e5707207245c0ca3262cf4a655648c295e21fe7e353f2661dbdfd",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Desk Roster NSE training Sign on Packe",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-nse.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 3364,
+      "bodyTextHash": "ff633ea4ba4331494700b047711949c30620e5fd073f786a49f3d1bb411104c4",
+      "bodyTextPrefix": "Crew Ledger NSE TRAINING CERTIFICATES Permanent crew tickets. NS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-nse-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-nse.json"
+}

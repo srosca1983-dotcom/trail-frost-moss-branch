@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/ingest",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 517,
+      "bodyTextHash": "008837512ffd602f31a197ae3f557e55ce209f9641bbce569266899732ec57bf",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Desk Roster Permanents NSE training Cy",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-ingest.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 364,
+      "bodyTextHash": "9e943a5d4985b21e1167d6aed661d8ff9fd45441b9ef376ad730dd83ce9185bd",
+      "bodyTextPrefix": "Crew Ledger INBOX Drop a packet or a single ticket. TWIC, MMC, p",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-ingest-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-ingest.json"
+}

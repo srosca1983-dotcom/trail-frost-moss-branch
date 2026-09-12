@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/crew",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 4995,
+      "bodyTextHash": "1d06d9a26b65e1be2000844ce5b005f4f53c101133e0fcda7360829b31e29cd3",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Crew list Roster Permanents NSE traini",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-aboard-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Crew Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 5930,
+      "bodyTextHash": "ea0881622c64f70ac8e234a43cf6df135d86e66a3969d124c63b6ed71529a0cd",
+      "bodyTextPrefix": "Crew Ledger M/V GEORGE II Who is aboard, and when they are due o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/qa-aboard-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/qa-aboard-smoke.json"
+}
