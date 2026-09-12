@@ -1,1 +1,0 @@
-import{a as e,t}from"./useNavigate-BSQNLmZ4.js";import"./types-BFM9nF0Q.js";import"./client-DWzOzxMA.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/`})}export{r as component};

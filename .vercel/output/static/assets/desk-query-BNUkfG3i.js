@@ -1,1 +1,0 @@
-var e=[`crew`,`ship-roster`,`dashboard`,`expiring`,`nse-board`,`inbox-log`,`vessel-run`,`permanents`,`requirements`,`sms-sync`];function t(t){for(let n of e)t.invalidateQueries({queryKey:[n]})}export{t};
